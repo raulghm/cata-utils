@@ -1,6 +1,6 @@
-# Cata components-utils
+# Cata utils
 
-`cata-components-utils` components styles.
+`cata-utils` styles.
 
 Read more about how to use [SUIT CSS](https://github.com/suitcss/suit/).
 
@@ -8,16 +8,16 @@ Read more about how to use [SUIT CSS](https://github.com/suitcss/suit/).
 
 ## NPM 
 ```
-npm install cata-components-utils
+npm install cata-utils
 ```
 
 ## Yarn
 ```
-yarn add cata-components-utils
+yarn add cata-utils
 ```
 
 ## Download
-[Download](https://github.com/raulghm/cata-components-utils/releases)
+[Download](https://github.com/raulghm/cata-utils/releases)
 
 ## Browser support
 
