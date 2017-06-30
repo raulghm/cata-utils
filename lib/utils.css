@@ -1,0 +1,11 @@
+/** @define utilities */
+
+:root {
+  --container-max-width: 1000px;
+  --container-min-width: 800px;
+}
+
+.u-inner {
+  max-width: var(--container-max-width);
+  margin: 0 auto;
+}
