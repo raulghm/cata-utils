@@ -1,6 +1,6 @@
 {
   "name": "cata-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CSS utils styles",
   "author": {
     "name": "Raúl Hernández",
@@ -23,9 +23,5 @@
     "index.js",
     "lib"
   ],
-  "style": "index.css",
-  "dependencies": {
-    "cata-utils-extend": "^0.1.0",
-    "suitcss-utils": "^3.0.0"
-  }
+  "style": "index.css"
 }
